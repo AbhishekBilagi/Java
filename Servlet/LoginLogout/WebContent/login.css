@@ -1,0 +1,40 @@
+.design{
+	 padding:100px;   
+     background-color: pink;
+     
+}
+
+
+lable{
+	text:bold;
+}
+input[type=text], input[type=password] { 
+        width: 50%; 
+        margin: 8px 0;
+        padding: 12px 20px;  
+        border: 2px solid green; 
+        box-sizing: border-box; 
+}
+    
+ button:hover { 
+        opacity: 0.7; 
+    }
+
+body {
+  background-color:lightblue;
+}
+
+button { 
+       background-color: gray; 
+       width:285px;
+        color: white; 
+        padding: 15px; 
+        margin: 10px 0px; 
+        cursor: pointer; 
+        display:inline-block;
+        
+}
+#a{
+	text-decoration: none;
+	color:white;
+} 
